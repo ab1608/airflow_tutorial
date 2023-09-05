@@ -1,3 +1,11 @@
 # IDE files
 .idea
 airfllow_tutorial.iml
+
+# Environment dir and files
+venv
+test.py
+
+# Misc
+.DS_Store
+standalone_admin_password.txt
